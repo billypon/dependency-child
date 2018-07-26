@@ -1,0 +1,8 @@
+{
+  "name": "dependency-child",
+  "version": "1.0.0",
+  "description": "dependency test for child module",
+  "author": "billypon <billypon@gmail.com>",
+  "license": "MIT",
+  "main": "index.js"
+}
